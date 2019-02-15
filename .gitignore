@@ -1,0 +1,6 @@
+
+# upload folder
+uploads/
+
+# db vars
+connection_vars.php

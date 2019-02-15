@@ -1,0 +1,10 @@
+<?php
+$servername = "localhost";
+$username = "akshay";
+$password = "akshay@123";
+$dbname = "StockApp";
+// $servername = "localhost";
+// $username = "chandan26";
+// $password = "TERABAAP908";
+// $dbname = "chandan26_StockApp";
+?>
